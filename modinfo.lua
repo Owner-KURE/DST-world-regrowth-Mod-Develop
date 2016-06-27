@@ -1,0 +1,1 @@
+--this is coop development [ world resource respawn Mod ] data.
